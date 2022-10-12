@@ -1,0 +1,22 @@
+body{
+	color: blue;
+	font-style: italic;
+	background-color: black;
+}
+
+.description{
+	color: blue;
+
+}
+
+#figure img{
+		    filter: invert();
+		border: 10px solid yellow;
+}
+
+
+
+.description img{
+	    filter: invert();
+		border: 10px solid yellow;
+}
